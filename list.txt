@@ -1,1 +1,10 @@
+Frontend
+    - npx create-react-app ecommerce;
+    - npm install react-bootstrap
 
+Backend
+    - py -m venv en
+    - en\Scripts\activate
+    - pip install django djangorestframework
+    - django-admin startproject ecomproject
+    - py manage.py startapp ecmoapp
